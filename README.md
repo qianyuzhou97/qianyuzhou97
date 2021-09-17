@@ -1,4 +1,4 @@
-### Hi there. Welcome to my little space of self exploration. Have a nice day 👋
+### Hi there. Welcome to my little space of self exploration.
 
 My name is Qianyu Zhou. I am proudly a Gopher and currently really enthusiastic about Go related stuff and Cloud Native Development especially Kubernetes. Besides that, I am also a master student from Waseda University. My research area includes Natural Language Processing(Dialog System in particular) and Information Retrieval.
 
@@ -10,3 +10,4 @@ My name is Qianyu Zhou. I am proudly a Gopher and currently really enthusiastic 
 - 📫 How to reach me: [Email](qianyu2018@gmail.com) [Linkedin](https://www.linkedin.com/in/qianyuzhou/)
 - 💬 Ask me about anything!
 
+ Have a nice day 👋
